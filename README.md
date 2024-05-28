@@ -5,13 +5,11 @@
 
 This analysis project aims to generate insights into customers behaviors to telecommunication services.
 
-#Tool used
+#**Tool used**
+- Microsoft excel used for Data cleaning [DOWNLOAD HERE](https://microsoft.com)
+- SQL
+- Ms powerBI
 
-Microsoft Excel for Data cleaning [Download here](https://Microsoft.com)
-
-Microsoft powerBI
-
-SQL
 
 
 
